@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tenor.com/pt-BR/view/hxh-gin-freecss-hunter-x-hunter-searching-gif-16285175](https://tenor.com/view/hxh-gin-freecss-hunter-x-hunter-searching-gif-16285175)" width="500" />
+  <img src="https://media1.tenor.com/m/wf_4F6J2Qb8AAAAC/hxh-gin-freecss.gif" width="600" />
 </div>
 <br>
 
