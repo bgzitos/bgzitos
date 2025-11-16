@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3bnR2enA2dGY2dGRiMTc1NjF1N2N3OG9vNzZxZHA0enJ5Zm5iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2t9y7lWd1QrZ6/giphy.gif" width="500" />
+  <img src="https://tenor.com/pt-BR/view/hxh-gin-freecss-hunter-x-hunter-searching-gif-16285175" width="500" />
 </div>
 <br>
 
