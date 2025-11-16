@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/wf_4F6J2Qb8AAAAC/hxh-gin-freecss.gif" width="600" />
+  <img src="https://media1.tenor.com/m/KjyuosSsqUUAAAAC/ging-freecss-hunter-x-hunter.gif" width="800" />
 </div>
 <br>
 
@@ -27,6 +27,7 @@ Aqui estão algumas das tecnologias que eu uso no meu dia a dia:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 <br>
 
