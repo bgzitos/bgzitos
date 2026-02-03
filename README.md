@@ -12,7 +12,7 @@
  
 Eu sou Lucas, atualmente estudante de Ciência da Computação na UFLA fascinado por programação web. Estou sempre em busca de novos desafios e aprendizados.
 
-* 🔭 Atualmente estou trabalhando em alguns projetos pessoais e no processo trainee da Comp Júnior.
+* 🔭 Atualmente estou trabalhando em alguns projetos pessoais e na equipe de vendas da Comp Júnior.
 * 🌱 Estou aprendendo JavaScript, React, React-Native e Infraestrutura (Devops).
 * ⚡ Fato curioso: Sou uma pessoa muito intensa e gosto sempre de estar aprendendo coisas novas.
 
