@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Lucas!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=bgzitos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo">
+<img src="https://img.shields.io/static/v1?label=Overview&message=bgzitos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-f8efd4?style=for-the-badge&logo=java&logoColor=black" alt="Java">
 
 <p>Trabalhando na Comp Júnior<br/> Eu sou DevOps e Tester</p>
